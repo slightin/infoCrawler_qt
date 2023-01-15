@@ -1,1 +1,1 @@
-# Crawler-based information integration platform
+# Crawler-based information aggregation platform
