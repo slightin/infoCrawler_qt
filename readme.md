@@ -1,1 +1,1 @@
-# Crawler-based information aggregation platform
+# 本项目已废弃
